@@ -1,0 +1,15 @@
+[submodule "order-service"]
+	path = order-service
+	url = git@github.com:08vivek08/order-service.git
+[submodule "inventory-service"]
+	path = inventory-service
+	url = git@github.com:08vivek08/inventory-service.git
+[submodule "product-service"]
+	path = product-service
+	url = git@github.com:08vivek08/product-service.git
+[submodule "notification-service"]
+	path = notification-service
+	url = git@github.com:08vivek08/notification-service.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:08vivek08/api-gateway.git
